@@ -19,9 +19,9 @@ Concreteness is how directly a word points at something you can see, touch or he
 
 But norms almost always rate words on their own. We rated them in combination.
 
-We asked native speakers to judge 5,814 verb-object expressions. Instead of a 1 to 5 scale, they saw four at a time and picked the most and the least concrete.
+We asked native speakers to judge 5,814 verb-object expressions (like *buy oil*). Instead of a 1 to 5 scale, they saw four at a time and picked the most and the least concrete. Slovene had no concreteness norms at all, so we built the first word-level ratings for the language along the way.
 
-For a subset we also collected figurative or literal labels, each with an example sentence. Slovene had no concreteness norms at all, so we built the first word-level ratings for the language along the way.
+For a subset of the expressions we also collected figurative or literal labels. For each we also asked the native speakers to write an example sentence. 
 
 Ratings of this quality are slow and expensive to collect, so we used automatic methods to extend the set to over 430,000 expressions.
 
