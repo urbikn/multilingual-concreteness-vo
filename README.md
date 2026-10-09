@@ -41,7 +41,7 @@ How concrete the two words are together also shapes how people read the expressi
 
 ## Data
 
-**You can download the datasets here: [ims.uni-stuttgart.de/data/mudcat/multilingual-concreteness-vo](https://www.ims.uni-stuttgart.de/data/mudcat/multilingual-concreteness-vo/)**
+**You can download the datasets here: [https://resources.urbikn.workers.dev/multilingual-vo-concreteness](https://resources.urbikn.workers.dev/multilingual-vo-concreteness)**
 
 The data is hosted there rather than in this repository. We want to share it responsibly: openly available to researchers, but harder for automated scrapers to collect. This lowers the risk of evaluation contamination while keeping the files easy to find and download.
 
