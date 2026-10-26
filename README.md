@@ -52,7 +52,7 @@ What you get:
 | Verb-object concreteness norms | EN, DE, SL | Ratings for 5,814 verb-object expressions |
 | Word norms | SL | Word-level ratings for 798 verbs and nouns |
 | Figurative judgments | EN, DE, SL | 1,800 expressions labelled figurative or literal, with 9,000 example sentences |
-| Extrapolated ratings | EN, DE, SL | 431,262 automatically predicted ratings |
+| Extrapolated ratings | EN, DE, SL | ![Update: more targets from DECOW16AX](https://img.shields.io/badge/Update:-more%20targets%20from%20DECOW-0284c7?style=flat-square)<br>1,087,114 automatically predicted ratings |
 
 Files are TSV, and each folder has a README describing its columns. Annotator sociodemographic data is not part of this release.
 
